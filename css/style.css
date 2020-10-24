@@ -1,0 +1,102 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  justify-content: center;
+}
+
+header {
+  background-color: #EBFEDC;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.li-nav {
+  color: #3C9B61;
+}
+
+.nav {
+  justify-content: space-between;
+}
+
+.home {
+  background-color: #EBFEDC;
+  padding-top: 30px;
+}
+
+.p-home {
+  font-size: 20px;
+}
+
+.img-home {
+  align-items: flex-end;
+}
+
+.logo {
+  justify-content: start;
+  width: 100%;
+}
+
+.img-illus {
+  width: 100%;
+}
+
+.about {
+  background-color: #3C9B61;
+}
+
+.about-col {
+  justify-content: center;
+  align-items: center;
+}
+
+.img-about {
+  width: 80%;
+  justify-content: center;
+}
+
+.p-about {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 15px;
+  width: 70%;
+}
+
+.img-des {
+  width: 100%;
+}
+
+.p-des {
+  font-size: 20px;
+  padding-top: 160px;
+  text-align: center;
+}
+
+.col-lg-6, .col-md-6, .col-sm-8, .col-8 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer {
+  background-color: green;
+}
+
+.img-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 15%;
+}
+
+.p-footer {
+  color: gray;
+  font-size: 15px;
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */
